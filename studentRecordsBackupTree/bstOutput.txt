@@ -1,0 +1,16 @@
+Main BST: 5 7 10 13 14 
+Backup1: 5 7 10 13 14 
+Backup2: 5 7 10 13 14 
+
+Main BST Sum: 49
+Backup1 Sum: 49
+Backup2 Sum: 49
+
+After Updating:
+Main BST: 6 8 11 14 15 
+Backup1: 6 8 11 14 15 
+Backup2: 6 8 11 14 15 
+
+Main BST Sum: 54
+Backup1 Sum: 54
+Backup2 Sum: 54
